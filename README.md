@@ -1,4 +1,4 @@
-# multivariate
+# Multivariate
 ## สุภาภรณ์ ID 623020543-8
 
  .md => Markdown
